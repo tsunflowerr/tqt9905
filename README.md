@@ -12,13 +12,12 @@
 📖  In my free time, I like reading tech news, exploring new tools and technologies, and keeping up with industry trends.\
 ✉️  Feel free to reach out if you’d like to discuss technology, collaborate on projects, or just have a good conversation.
 
-<div align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3079099/media/6e94464d3c9edcd0d9b3f2d1f09d7f90.gif" alt="Night Coding" width="300"/>
-</div>
+
 
 ---
 
 ### 🛠 &nbsp;Tech Stack
+<img alt="Night Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="300"/>
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
